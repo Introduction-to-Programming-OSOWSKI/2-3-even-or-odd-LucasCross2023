@@ -1,7 +1,7 @@
-def itsEven(n):
+def isEven(n):
     if n % 2 == 0:
         return True 
     else:
         return False
 
-print (itsEven(4))
+print (isEven(8))
